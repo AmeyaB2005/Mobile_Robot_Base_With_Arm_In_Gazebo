@@ -37,7 +37,7 @@ For example, you can install these requirements on  Ubuntu 22.04.4 LTS by the fo
       * common_properties.xacro : contains the common properties like different materials and macros for inertia of different geometries
       * mobile_base.xacro : the xacro file that generates the urdf description file of the mobile base of the robot
       * mobile_base_gazebo.xacro : contains the Gazebo plugins that provide an interface to control the robot wheels with differential drive
-      * my_robo.urdf.xacro : includes all xacro files which are required for the robot to spawn in gazebo
+      * my_robot.urdf.xacro : includes all xacro files which are required for the robot to spawn in gazebo
 
 
 # Direct usage
